@@ -1,0 +1,129 @@
+[
+    {"word": "あ", "meaning": "ア (a)"},
+    {"word": "い", "meaning": "イ (i)"},
+    {"word": "う", "meaning": "ウ (u)"},
+    {"word": "え", "meaning": "エ (e)"},
+    {"word": "お", "meaning": "オ (o)"},
+    
+    {"word": "か", "meaning": "カ (ka)"},
+    {"word": "き", "meaning": "キ (ki)"},
+    {"word": "く", "meaning": "ク (ku)"},
+    {"word": "け", "meaning": "ケ (ke)"},
+    {"word": "こ", "meaning": "コ (ko)"},
+    
+    {"word": "さ", "meaning": "サ (sa)"},
+    {"word": "し", "meaning": "シ (shi)"},
+    {"word": "す", "meaning": "ス (su)"},
+    {"word": "せ", "meaning": "セ (se)"},
+    {"word": "そ", "meaning": "ソ (so)"},
+    
+    {"word": "た", "meaning": "タ (ta)"},
+    {"word": "ち", "meaning": "チ (chi)"},
+    {"word": "つ", "meaning": "ツ (tsu)"},
+    {"word": "て", "meaning": "テ (te)"},
+    {"word": "と", "meaning": "ト (to)"},
+    
+    {"word": "な", "meaning": "ナ (na)"},
+    {"word": "に", "meaning": "ニ (ni)"},
+    {"word": "ぬ", "meaning": "ヌ (nu)"},
+    {"word": "ね", "meaning": "ネ (ne)"},
+    {"word": "の", "meaning": "ノ (no)"},
+    
+    {"word": "は", "meaning": "ハ (ha)"},
+    {"word": "ひ", "meaning": "ヒ (hi)"},
+    {"word": "ふ", "meaning": "フ (fu)"},
+    {"word": "へ", "meaning": "ヘ (he)"},
+    {"word": "ほ", "meaning": "ホ (ho)"},
+    
+    {"word": "ま", "meaning": "マ (ma)"},
+    {"word": "み", "meaning": "ミ (mi)"},
+    {"word": "む", "meaning": "ム (mu)"},
+    {"word": "め", "meaning": "メ (me)"},
+    {"word": "も", "meaning": "モ (mo)"},
+    
+    {"word": "や", "meaning": "ヤ (ya)"},
+    {"word": "ゆ", "meaning": "ユ (yu)"},
+    {"word": "よ", "meaning": "ヨ (yo)"},
+    
+    {"word": "ら", "meaning": "ラ (ra)"},
+    {"word": "り", "meaning": "リ (ri)"},
+    {"word": "る", "meaning": "ル (ru)"},
+    {"word": "れ", "meaning": "レ (re)"},
+    {"word": "ろ", "meaning": "ロ (ro)"},
+    
+    {"word": "わ", "meaning": "ワ (wa)"},
+    {"word": "を", "meaning": "ヲ (wo)"},
+    {"word": "ん", "meaning": "ン (n)"},
+    
+    {"word": "が", "meaning": "ガ (ga)"},
+    {"word": "ぎ", "meaning": "ギ (gi)"},
+    {"word": "ぐ", "meaning": "グ (gu)"},
+    {"word": "げ", "meaning": "ゲ (ge)"},
+    {"word": "ご", "meaning": "ゴ (go)"},
+    
+    {"word": "ざ", "meaning": "ザ (za)"},
+    {"word": "じ", "meaning": "ジ (ji)"},
+    {"word": "ず", "meaning": "ズ (zu)"},
+    {"word": "ぜ", "meaning": "ゼ (ze)"},
+    {"word": "ぞ", "meaning": "ゾ (zo)"},
+    
+    {"word": "だ", "meaning": "ダ (da)"},
+    {"word": "ぢ", "meaning": "ヂ (ji)"},
+    {"word": "づ", "meaning": "ヅ (zu)"},
+    {"word": "で", "meaning": "デ (de)"},
+    {"word": "ど", "meaning": "ド (do)"},
+    
+    {"word": "ば", "meaning": "バ (ba)"},
+    {"word": "び", "meaning": "ビ (bi)"},
+    {"word": "ぶ", "meaning": "ブ (bu)"},
+    {"word": "べ", "meaning": "ベ (be)"},
+    {"word": "ぼ", "meaning": "ボ (bo)"},
+    
+    {"word": "ぱ", "meaning": "パ (pa)"},
+    {"word": "ぴ", "meaning": "ピ (pi)"},
+    {"word": "ぷ", "meaning": "プ (pu)"},
+    {"word": "ぺ", "meaning": "ペ (pe)"},
+    {"word": "ぽ", "meaning": "ポ (po)"},
+    
+    {"word": "きょ", "meaning": "キョ (kyo)"},
+    {"word": "しゃ", "meaning": "シャ (sha)"},
+    {"word": "しゅ", "meaning": "シュ (shu)"},
+    {"word": "しょ", "meaning": "ショ (sho)"},
+    
+    {"word": "ちゃ", "meaning": "チャ (cha)"},
+    {"word": "ちゅ", "meaning": "チュ (chu)"},
+    {"word": "ちょ", "meaning": "チョ (cho)"},
+    
+    {"word": "にゃ", "meaning": "ニャ (nya)"},
+    {"word": "にゅ", "meaning": "ニュ (nyu)"},
+    {"word": "にょ", "meaning": "ニョ (nyo)"},
+    
+    {"word": "ひゃ", "meaning": "ヒャ (hya)"},
+    {"word": "ひゅ", "meaning": "ヒュ (hyu)"},
+    {"word": "ひょ", "meaning": "ヒョ (hyo)"},
+    
+    {"word": "みゃ", "meaning": "ミャ (mya)"},
+    {"word": "みゅ", "meaning": "ミュ (myu)"},
+    {"word": "みょ", "meaning": "ミョ (myo)"},
+    
+    {"word": "りゃ", "meaning": "リャ (rya)"},
+    {"word": "りゅ", "meaning": "リュ (ryu)"},
+    {"word": "りょ", "meaning": "リョ (ryo)"},
+    
+    {"word": "ぎゃ", "meaning": "ギャ (gya)"},
+    {"word": "ぎゅ", "meaning": "ギュ (gyu)"},
+    {"word": "ぎょ", "meaning": "ギョ (gyo)"},
+    
+    {"word": "じゃ", "meaning": "ジャ (ja)"},
+    {"word": "じゅ", "meaning": "ジュ (ju)"},
+    {"word": "じょ", "meaning": "ジョ (jo)"},
+    
+    {"word": "びゃ", "meaning": "ビャ (bya)"},
+    {"word": "びゅ", "meaning": "ビュ (byu)"},
+    {"word": "びょ", "meaning": "ビョ (byo)"},
+    
+    {"word": "ぴゃ", "meaning": "ピャ (pya)"},
+    {"word": "ぴゅ", "meaning": "ピュ (pyu)"},
+    {"word": "ぴょ", "meaning": "ピョ (pyo)"}
+]
+
